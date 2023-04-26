@@ -1,4 +1,4 @@
-### Olá! Eu sou a Laiza
+### Olá, Eu sou a Laiza Cristina!
 
 • 📚 Cursando Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos
   ##
