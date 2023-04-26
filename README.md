@@ -39,5 +39,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original
 ![Postgree](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/laizacristina/laizacristina/blob/output/github-contribution-grid-snake.svg)
 
