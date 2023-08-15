@@ -1,6 +1,6 @@
 ### Olá, Eu sou a Laiza Cristina!
 
-<h3>📚 Estou cursando o 4º Semestre do Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos.</h3>
+<h3>📚 Estou cursando o 4º Semestre do Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec-SJC.</h3>
 <div alinhar = "centro">
  <a href="https://github.com/LaizaCristina">
  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=LaizaCristina&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
