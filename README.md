@@ -3,21 +3,19 @@
 <h3>📚 Estou cursando o 4º Semestre do Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec-SJC.</h3>
 <div alinhar = "centro">
  <a href="https://github.com/LaizaCristina">
- <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=LaizaCristina&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizaCristina&layout=compact&langs_count=16&theme=omni"/>
-</div>
-         
 
- ##
- ### Atualmente Estudando:
+<h3>Atualmente Estudando:</h3>
 <img align="center" alt="Laiza-Java" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 <img align="center" alt="Laiza-Postgree" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="Laiza-Postgree" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-##
+ 
+ 
+ </div>
+         
  ### Projetos desenvolvidos até o momento na faculdade:
  * 3º Semestre: https://github.com/LaizaCristina/code-fatec-api-3-semestre-Visiona
  * 2º Semestre: https://github.com/LaizaCristina/code-fatec-api-2-semestre-TrackCash
