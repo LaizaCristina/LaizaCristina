@@ -3,7 +3,7 @@
 <h3>📚 Estou cursando o 4º Semestre do Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec-SJC.</h3>
 <div alinhar = "centro">
  <a href="https://github.com/LaizaCristina">
- <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizaCristina&layout=compact&langs_count=16&theme=omni"/>
+ <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizaCristina&layout=compact&langs_count=16&theme=gruvbox"/>
 
 <h3>Atualmente Estudando:</h3>
 <img align="center" alt="Laiza-Java" width="60"
