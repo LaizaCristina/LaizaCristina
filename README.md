@@ -24,5 +24,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
   ### Redes Sociais:
   <a href = "mailto:laizacristinamt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laiza-cristina-machado-zaic-truyts-476223252" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- ![Snake animation](https://github.com/LaizaCristina/LaizaCristina/blob/output/github-contribution-grid-snake.svg)
