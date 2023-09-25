@@ -18,6 +18,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
  </div>
          
  ### Projetos desenvolvidos na faculdade:
+#### Equipe 4desk Group → https://github.com/4DeskGroup
  * 4º semestre [execução] → ract • typescript • js • node.js • sql
  * [3º Semestre](https://github.com/LaizaCristina/code-fatec-api-3-semestre-Visiona) → ract • typescript • js • node.js • sql
  * [2º Semestre](https://github.com/LaizaCristina/code-fatec-api-2-semestre-TrackCash) → java • sql
