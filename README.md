@@ -16,8 +16,8 @@
          
  ### Projetos desenvolvidos na faculdade:
 #### Equipe 4desk Group → https://github.com/4DeskGroup
- * 4º semestre [execução] → ract • typescript • js • node.js • sql
- * [3º Semestre](https://github.com/LaizaCristina/code-fatec-api-3-semestre-Visiona) → ract • typescript • js • node.js • sql
+ * 4º semestre [execução] → ract • typescript • node.js • sql
+ * [3º Semestre](https://github.com/LaizaCristina/code-fatec-api-3-semestre-Visiona) → ract • javascript • node.js • sql
  * [2º Semestre](https://github.com/LaizaCristina/code-fatec-api-2-semestre-TrackCash) → java • sql
  * [1º Semestre](https://github.com/LaizaCristina/code-fatec-api-1-semestre) → html • css • js • php
 ##
