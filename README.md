@@ -19,7 +19,7 @@
  * 4º semestre [execução] → ract • typescript • node.js • sql
  * [3º Semestre](https://github.com/LaizaCristina/code-fatec-api-3-semestre-Visiona) → ract • javascript • node.js • sql
  * [2º Semestre](https://github.com/LaizaCristina/code-fatec-api-2-semestre-TrackCash) → java • sql
- * [1º Semestre](https://github.com/LaizaCristina/code-fatec-api-1-semestre) → html • css • javascript • php
+ * [1º Semestre](https://github.com/LaizaCristina/code-fatec-api-1-semestre) → html • css • javascript • php • python
 ##
   ### Redes Sociais:
   <a href = "mailto:laizacristinamt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
