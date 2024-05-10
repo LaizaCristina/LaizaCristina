@@ -18,7 +18,7 @@
 ### :page_with_curl: Portfólio de Trabalho de Graduação
 > [Portfólio](https://github.com/LaizaCristina/Portifolio-TG)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LaizaCristina&repo=Portifolio-TG&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/SEUUSERNAME/SEUREPOSITORIO](https://github.com/LaizaCristina/Portifolio-TG))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LaizaCristina&repo=Portifolio-TG&bg_color=131422&border_color=4E4E4E&show_icons=true&icon_color=FE428E&title_color=FE428E&text_color=74aaa9)]([https://github.com/SEUUSERNAME/SEUREPOSITORIO](https://github.com/LaizaCristina/Portifolio-TG))
 
 ### Projetos desenvolvidos na faculdade:
  
