@@ -12,12 +12,16 @@
  <img align="center" alt="Laiza-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
  <img align="center" alt="Laiza-Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
  <img align="center" alt="Laiza-Json" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" />
-          
-          
- 
 </div>
          
- ### Projetos desenvolvidos na faculdade:
+
+### :page_with_curl: Portfólio de Trabalho de Graduação
+> [Portfólio](https://github.com/LaizaCristina/Portifolio-TG)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LaizaCristina&repo=Portifolio-TG&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/SEUUSERNAME/SEUREPOSITORIO](https://github.com/LaizaCristina/Portifolio-TG))
+
+### Projetos desenvolvidos na faculdade:
+ 
 #### Equipe 4desk Group → https://github.com/4DeskGroup
  * [4º semestre](https://github.com/LaizaCristina/api-4-semestre-Greenneat) → ract • typescript • node.js • sql • vercel
  * [3º Semestre](https://github.com/LaizaCristina/code-fatec-api-3-semestre-Visiona) → ract • javascript • node.js • sql
