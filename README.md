@@ -4,16 +4,7 @@
 <div alinhar = "centro">
  <a href="https://github.com/LaizaCristina">
  <img align="center" height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizaCristina&layout=compact&langs_count=16&theme=radical"/>
-
- <h3>Atualmente Estudando:</h3>
- <img align="center" alt="Laiza-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="Laiza-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
- <img align="center" alt="Laiza-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Laiza-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
- <img align="center" alt="Laiza-Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
- <img align="center" alt="Laiza-Json" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" />
-</div>
-         
+        
 
 ### :page_with_curl: Portfólio de Trabalho de Graduação
 > [Portfólio](https://github.com/LaizaCristina/Portifolio-TG)
