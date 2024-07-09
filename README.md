@@ -1,4 +1,4 @@
-### Olá, Eu sou a Laiza Cristina!
+### Olá, Eu sou a Laiza!
 
 <h3 >📚 Estou cursando o 6º Semestre do Curso Superior do Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec-SJC.</h3>
 <div alinhar = "centro">
