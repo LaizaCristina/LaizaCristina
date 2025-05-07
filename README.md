@@ -10,14 +10,15 @@
 ## Projetos desenvolvidos na faculdade:
  
 #### Equipe 4desk Group → https://github.com/4DeskGroup
-| Projeto        | Período             | Empresa Parceira | Tecnologias                                                                 |
-|----------------|---------------------|------------------|------------------------------------------------------------------------------|
-| [6º Semestre](https://github.com/4DeskGroup/API-2024.2) | 2024 - 2º semestre  | Dom Rock         | Python • Vue.js • LangChain • FAISS                                          |
-| [5º Semestre](https://github.com/4DeskGroup/API-2024.1) | 2024 - 1º semestre  | Oracle           | React Native • JavaScript • Node.js • MongoDB                                |
-| [4º Semestre](https://github.com/4DeskGroup/API-2023.2) | 2023 - 2º semestre  | Greenneat        | React • JavaScript • TypeScript • Node.js • SQL • Vercel                     |
-| [3º Semestre](https://github.com/4DeskGroup/API-2023.1) | 2023 - 1º semestre  | Visiona          | React • JavaScript • Node.js • SQL                                           |
-| [2º Semestre](https://github.com/4DeskGroup/API-2022.2) | 2022 - 2º semestre  | Track Cash       | Java • SQL                                                                   |
-| [1º Semestre](https://github.com/4DeskGroup/API-2022.1) | 2022 - 1º semestre  | Cliente Interno  | HTML • CSS • JavaScript • PHP • Python                                       |
+| Projeto                                                                                            | Período        | Empresa Parceira | Tecnologias                                                                  |
+|----------------------------------------------------------------------------------------------------|----------------|------------------|------------------------------------------------------------------------------|
+| [IA Generativa](https://github.com/4DeskGroup/API-2024.2)                                          | 6º Semestre    | Dom Rock         | Python • Vue.js • LangChain • FAISS                                          |
+| [Aplicação Mobile](https://github.com/4DeskGroup/API-2024.1)                                       | 5º Semestre    | Oracle           | React Native • JavaScript • Node.js • MongoDB                                |
+| [Circulação de Moeda Interna e Gerenciamento de Estoque](https://github.com/4DeskGroup/API-2023.2) | 4º Semestre    | Greenneat        | React • JavaScript • TypeScript • Node.js • SQL • Vercel                     |
+| [Gerenciamento de Usuários](https://github.com/4DeskGroup/API-2023.1)                              | 3º Semestre    | Visiona          | React • JavaScript • Node.js • SQL                                           |
+| [Aplicação Instalável Desktop](https://github.com/4DeskGroup/API-2022.2)                           | 2º Semestre    | Track Cash       | Java • SQL                                                                   |
+| [Aplicação Web](https://github.com/4DeskGroup/API-2022.1)                                          | 1º Semestre    | Cliente Interno  | HTML • CSS • JavaScript • PHP • Python                                       |
+
 
 
 ##
