@@ -2,8 +2,7 @@
 
 <h3 >Graduada no Curso Superior do Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec-SJC.</h3>
 <div alinhar = "centro">
- <a href="https://github.com/LaizaCristina">
- <img align="center" height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizaCristina&layout=compact&langs_count=16&theme=radical"/>
+ 
         
 
 ### :page_with_curl: Portfólio de Trabalho de Graduação
@@ -20,6 +19,10 @@
  * [3º Semestre](https://github.com/4DeskGroup/API-2023.1) → ract • javascript • node.js • sql
  * [2º Semestre](https://github.com/4DeskGroup/API-2022.2) → java • sql
  * [1º Semestre](https://github.com/4DeskGroup/API-2022.1) → html • css • javascript • php • python
+
+<a href="https://github.com/LaizaCristina">
+ <img align="center" height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizaCristina&layout=compact&langs_count=16&theme=radical"/>
+ 
 ##
   ### Redes Sociais:
   <a href = "mailto:laizacristinamt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
