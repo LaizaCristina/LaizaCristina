@@ -3,7 +3,7 @@
 <h3 >Graduada no Curso Superior do Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec-SJC.</h3>
 <div alinhar = "centro">
 
-> [Portfólio](https://github.com/LaizaCristina/Portifolio-TG)
+## [Portfólio](https://github.com/LaizaCristina/Portifolio-TG)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LaizaCristina&repo=Portifolio-TG&bg_color=131422&border_color=4E4E4E&show_icons=true&icon_color=FE428E&title_color=FE428E&text_color=74aaa9)]([https://github.com/SEUUSERNAME/SEUREPOSITORIO](https://github.com/LaizaCristina/Portifolio-TG))
 
