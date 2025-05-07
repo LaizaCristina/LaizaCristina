@@ -7,7 +7,7 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LaizaCristina&repo=Portifolio-TG&bg_color=131422&border_color=4E4E4E&show_icons=true&icon_color=FE428E&title_color=FE428E&text_color=74aaa9)]([https://github.com/SEUUSERNAME/SEUREPOSITORIO](https://github.com/LaizaCristina/Portifolio-TG))
 
-### Projetos desenvolvidos na faculdade:
+## Projetos desenvolvidos na faculdade:
  
 #### Equipe 4desk Group → https://github.com/4DeskGroup
  * [6° semestre](https://github.com/4DeskGroup/API-2024.2) → python • vue.js • langchain • FAISS
