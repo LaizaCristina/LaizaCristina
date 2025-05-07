@@ -10,12 +10,18 @@
 ## Projetos desenvolvidos na faculdade:
  
 #### Equipe 4desk Group → https://github.com/4DeskGroup
- * [6° semestre](https://github.com/4DeskGroup/API-2024.2) → python • vue.js • langchain • FAISS
- * [5º semestre](https://github.com/4DeskGroup/API-2024.1) → ract native • javascript • node.js • mongodb
- * [4º semestre](https://github.com/4DeskGroup/API-2023.2) → ract • javascript • typescript • node.js • sql • vercel
- * [3º Semestre](https://github.com/4DeskGroup/API-2023.1) → ract • javascript • node.js • sql
- * [2º Semestre](https://github.com/4DeskGroup/API-2022.2) → java • sql
- * [1º Semestre](https://github.com/4DeskGroup/API-2022.1) → html • css • javascript • php • python
+| Projeto        | Período             | Empresa Parceira | Tecnologias                                                                 |
+|----------------|---------------------|------------------|------------------------------------------------------------------------------|
+| [6º Semestre](https://github.com/4DeskGroup/API-2024.2) | 2024 - 2º semestre  | Dom Rock         | Python • Vue.js • LangChain • FAISS                                          |
+| [5º Semestre](https://github.com/4DeskGroup/API-2024.1) | 2024 - 1º semestre  | Oracle           | React Native • JavaScript • Node.js • MongoDB                                |
+| [4º Semestre](https://github.com/4DeskGroup/API-2023.2) | 2023 - 2º semestre  | Greenneat        | React • JavaScript • TypeScript • Node.js • SQL • Vercel                     |
+| [3º Semestre](https://github.com/4DeskGroup/API-2023.1) | 2023 - 1º semestre  | Visiona          | React • JavaScript • Node.js • SQL                                           |
+| [2º Semestre](https://github.com/4DeskGroup/API-2022.2) | 2022 - 2º semestre  | Track Cash       | Java • SQL                                                                   |
+| [1º Semestre](https://github.com/4DeskGroup/API-2022.1) | 2022 - 1º semestre  | Cliente Interno  | HTML • CSS • JavaScript • PHP • Python                                       |
+
+
+##
+
 
 <a href="https://github.com/LaizaCristina">
  <img align="center" height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizaCristina&layout=compact&langs_count=16&theme=radical"/>
