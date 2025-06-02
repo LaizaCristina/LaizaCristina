@@ -1,6 +1,6 @@
 ### Olá, Eu sou a Laiza!
 
-<h3 >Graduada no Curso Superior do Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec-SJC.</h3>
+<h3 >Graduada no Curso Superior em Análise e Desenvolvimento de Sistemas na Fatec-SJC.</h3>
 <div alinhar = "centro">
 
 ## [Acesse meu Portfólio de projetos](https://github.com/LaizaCristina/Portifolio-TG)
